@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan data benar</description>
+   <name>Login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3412778a-94ca-4188-98f3-7b590e29a27d</testCaseGuid>
+</TestCaseEntity>

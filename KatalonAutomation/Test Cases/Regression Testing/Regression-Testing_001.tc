@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>regression testing</description>
+   <name>Regression-Testing_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaf96c4f-ef86-409a-be3a-2d1bff7ef146</testCaseGuid>
+</TestCaseEntity>
